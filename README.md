@@ -1,2 +1,2 @@
 # marcindebski.online
-Project of my personal website based on Python and Django
+Project of my personal website based on Python and Django. More information will be added soon...
